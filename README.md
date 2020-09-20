@@ -7,4 +7,5 @@ This is the project of team UNO participated in 2017 Thales Project Arduino comp
 ## Introduce Video
 https://youtu.be/rdUVTMffrrs
 
-## Photos
+## Photo
+![image](https://github.com/Rexyyj/2017ProjectArduino/raw/master/Photos/fig1.jpg)
